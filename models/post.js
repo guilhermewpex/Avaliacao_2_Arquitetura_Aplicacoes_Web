@@ -4,7 +4,7 @@ const mongoose = require('mongoose')
 const postSchema = new mongoose.Schema({
     id : {
         type: String,
-        required: false
+        required: true
     },
     userId: {
         type: String,
