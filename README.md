@@ -1,2 +1,2 @@
 # Avalia-o_2_Arquitetur_Aplica-es_Web
-Avaliação_2_Arquitetur_Aplicações_Web
+Avaliação_2_Arquitetura_Aplicações_Web
