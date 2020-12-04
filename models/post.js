@@ -26,13 +26,3 @@ const postSchema = new mongoose.Schema({
         type: Date,
         required: true,
         default: Date.now
-    },
-    dataDeModificacao: {
-        type: Date,
-        required: true,
-        default: Date.now
-    }
-})
-
-// configurando o esquema no banco
-module.exports = mongoose.model('Post', postSchema)
